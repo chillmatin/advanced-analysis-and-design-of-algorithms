@@ -7,7 +7,7 @@ gcc insertion_sort.c -o insertion_sort
 - then input the size of the randomly generated integer list
 
 ## Demo:
-[![Insertion Sort Demo]()](build/insertion.mp4)
+[![Insertion Sort Demo](https://img.youtube.com/vi/RAOR6b9X9yM/0.jpg)](https://youtu.be/RAOR6b9X9yM)
 
 # L Shaped Tiling Problem
 **Problem:**
