@@ -11,7 +11,7 @@ gcc insertion_sort.c -o insertion_sort
 
 # L Shaped Tiling Problem
 **Problem:**
-![Problem](tiling_output/image.png)
+![Problem]([/tiling_output/image.png](https://github.com/chillmatin/advanced-analysis-and-design-of-algorithms/blob/main/week1/tiling_output/problem.png?raw=true))
 
 **Divide and Conquer Solution Demo:**
 ![Demo](tiling_output/l_tiling_animation_8x8_missing_3_1.gif)
