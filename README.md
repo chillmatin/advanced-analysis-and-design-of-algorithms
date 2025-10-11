@@ -4,3 +4,4 @@ This repository contains personal tools and scripts to understand course better.
 
 ## Contents
 [Week 1 - Introduction](/week1/README.md)
+[Week 2 - Divide-and-Conquer](/week2/README.md)
